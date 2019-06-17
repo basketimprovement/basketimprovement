@@ -1,0 +1,4 @@
+lances de 3 
+
+frente | ang dir | ang esq | zm esq | zm dir |  FT 
+ 2/10  |   2/10  |   2/10  |  5/10  |  2/10  | 10/20
